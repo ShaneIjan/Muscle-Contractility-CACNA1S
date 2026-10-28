@@ -1,0 +1,6 @@
+Gene symbol: CACNA1S
+NCBI Gene ID: 779
+Official name: calcium voltage-gated channel subunit alpha1 S
+Chromosome: 1
+Normal role in muscle: Encodes the alpha-1S subunit of the voltage-gated L-type calcium channel involved in skeletal muscle excitation-contraction coupling.
+Source: https://www.ncbi.nlm.nih.gov/gene/779
