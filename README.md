@@ -302,11 +302,7 @@ The chart shows the frequency of the 20 standard amino acids in the CACNA1S refe
 
 ### Question 4. What is the ClinVar classification of the assigned variant, and what is its evidence strength?
 
-### Question 4. What is the ClinVar classification of the assigned variant, and what is its evidence strength?
-
 The assigned variant, **CACNA1S c.1583G>A (p.Arg528His; R528H)**, is classified as **Pathogenic** in ClinVar (Variation ID: 17625). Its review status is **criteria provided, multiple submitters, no conflicts**, corresponding to a **2-star review status**. This indicates that multiple submitters have provided supporting criteria and agree on the pathogenic classification. Supporting evidence includes reports of the variant in affected individuals, segregation with disease, and experimental findings demonstrating altered calcium channel function associated with hypokalemic periodic paralysis type 1.
-
-Source: https://www.ncbi.nlm.nih.gov/clinvar/variation/17625/
 
 ### Question 5. What scientifically supported mechanism could link the variant to altered muscle function, and what remains uncertain?
 
